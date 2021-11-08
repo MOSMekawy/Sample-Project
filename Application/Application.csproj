@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="TodoItem\**" />
+    <Compile Remove="TodoList\**" />
+    <Compile Remove="User\**" />
+    <EmbeddedResource Remove="TodoItem\**" />
+    <EmbeddedResource Remove="TodoList\**" />
+    <EmbeddedResource Remove="User\**" />
+    <None Remove="TodoItem\**" />
+    <None Remove="TodoList\**" />
+    <None Remove="User\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.3.4" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Persistence\Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

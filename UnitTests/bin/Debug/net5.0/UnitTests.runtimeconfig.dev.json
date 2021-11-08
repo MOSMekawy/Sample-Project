@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mostafa.mekawy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mostafa.mekawy\\.nuget\\packages"
+    ]
+  }
+}

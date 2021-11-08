@@ -1,0 +1,12 @@
+D:\Work-Repository-main\Sample-Project\Simplified\bin\Debug\net5.0\Simplified.deps.json
+D:\Work-Repository-main\Sample-Project\Simplified\bin\Debug\net5.0\Simplified.dll
+D:\Work-Repository-main\Sample-Project\Simplified\bin\Debug\net5.0\ref\Simplified.dll
+D:\Work-Repository-main\Sample-Project\Simplified\bin\Debug\net5.0\Simplified.pdb
+D:\Work-Repository-main\Sample-Project\Simplified\obj\Debug\net5.0\Simplified.csprojAssemblyReference.cache
+D:\Work-Repository-main\Sample-Project\Simplified\obj\Debug\net5.0\Simplified.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work-Repository-main\Sample-Project\Simplified\obj\Debug\net5.0\Simplified.AssemblyInfoInputs.cache
+D:\Work-Repository-main\Sample-Project\Simplified\obj\Debug\net5.0\Simplified.AssemblyInfo.cs
+D:\Work-Repository-main\Sample-Project\Simplified\obj\Debug\net5.0\Simplified.csproj.CoreCompileInputs.cache
+D:\Work-Repository-main\Sample-Project\Simplified\obj\Debug\net5.0\Simplified.dll
+D:\Work-Repository-main\Sample-Project\Simplified\obj\Debug\net5.0\ref\Simplified.dll
+D:\Work-Repository-main\Sample-Project\Simplified\obj\Debug\net5.0\Simplified.pdb
