@@ -1,5 +1,5 @@
 # Application 
-represents the application layer for our multilayered onion architecture sample project.
+represents the application layer for our multilayered onion architecture sample project. this project uses [MediatR](#mediatr)
 
 ### File structure
 **Note:** The MediatorEntryPoint.cs is an empty class that acts only as an entry point for MediatR package to load the project automatically without the need to register each command and query ourselves.
