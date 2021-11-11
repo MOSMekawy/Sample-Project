@@ -17,3 +17,7 @@ This a sample project that highlights the following
 |  [Persistence](https://github.com/MOSMekawy/Sample-Project/tree/main/Persistence)  |  provides our means of communication with database             |
 |  [Simplified](https://github.com/MOSMekawy/Sample-Project/tree/main/Simplified)    |  ado.net wrapper that proivdes an easier more stream lined api |
 |  [UnitTests](https://github.com/MOSMekawy/Sample-Project/tree/main/UnitTests)      |  unit testing mostly covering our services/application layer   |
+____
+
+## Markdown syntax guide
+You can find a guide + cheat sheet for Markdown syntax [here](https://www.markdownguide.org/).
