@@ -12,7 +12,7 @@ This a sample project that highlights the following
 
 |                                  Project                                           |                             Function                           |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-|  [EndPoints](https://github.com/MOSMekawy/Sample-Project/tree/main/EndPoints)      |  exposes our application through RESTFUL API                   |
+|  [EndPoints](https://github.com/MOSMekawy/Sample-Project/tree/main/Endpoints)      |  exposes our application through RESTFUL API                   |
 |  [Application](https://github.com/MOSMekawy/Sample-Project/tree/main/Application)  |  contains the bussiness logic                                  |
 |  [Persistence](https://github.com/MOSMekawy/Sample-Project/tree/main/Persistence)  |  provides our means of communication with database             |
 |  [Simplified](https://github.com/MOSMekawy/Sample-Project/tree/main/Simplified)    |  ado.net wrapper that proivdes an easier more stream lined api |
